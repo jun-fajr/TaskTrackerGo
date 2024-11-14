@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "description": "belajar golang",
+    "status": "todo",
+    "createdAt": "2024-11-14T13:53:30.87507508+07:00",
+    "updatedAt": "2024-11-14T13:53:30.875075142+07:00"
+  },
+  {
+    "id": 2,
+    "description": "belajar rust",
+    "status": "todo",
+    "createdAt": "2024-11-14T13:54:00.926471425+07:00",
+    "updatedAt": "2024-11-14T13:54:00.926471478+07:00"
+  }
+]
